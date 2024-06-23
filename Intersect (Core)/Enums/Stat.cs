@@ -11,5 +11,21 @@ namespace Intersect.Enums
         MagicResist,
 
         Speed,
+
+        Axe,
+
+        Sword,
+
+        Archery,
+
+        Club,
+
+        Magic,
+
+        Fishing,
+
+        Mining,
+
+        Shielding
     }
 }

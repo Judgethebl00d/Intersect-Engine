@@ -193,6 +193,22 @@ namespace Intersect.Editor.General
                     return "Magic Resist";
                 case (int) Stat.Speed:
                     return "Speed";
+                case (int)Stat.Axe:
+                    return "Axe";
+                case (int)Stat.Sword:
+                    return "Sword";
+                case (int)Stat.Archery:
+                    return "Archery";
+                case (int)Stat.Club:
+                    return "Club";
+                case (int)Stat.Magic:
+                    return "Magic";
+                case (int)Stat.Fishing:
+                    return "Fishing";
+                case (int)Stat.Mining:
+                    return "Mining";
+                case (int)Stat.Shielding:
+                    return "Shielding";
                 default:
                     return "Invalid Stat";
             }
